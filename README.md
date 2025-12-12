@@ -4,7 +4,7 @@
     Bu proje göze hitap eden estetik Github header ve main kısmı tasarımıdır. Zarif dizaynıyla dikkatleri çekmektedir.
 </p>
 
-
+![](ekran.gif)
 
 <hr>
 
